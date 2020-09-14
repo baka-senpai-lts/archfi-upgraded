@@ -1,2 +1,2 @@
 # archfi-upgraded
-You can find original at http://matmoul.github.io/archfi/
+You can find original at https://github.com/MatMoul/archfi
