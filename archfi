@@ -1725,6 +1725,7 @@ archextrasmenu(){
 	options+=("nano" "" on)
 	options+=("vim" "" on)
 	options+=("dhcpcd" "" on)
+    options+=("wpa_supplicant" "" on)
 	sel=$(whiptail --backtitle "${apptitle}" --title "${txtextrasmenu}" --checklist "" 0 0 0 \
 		"${options[@]}" \
 		3>&1 1>&2 2>&3)
